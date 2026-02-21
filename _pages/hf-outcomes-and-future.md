@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Outcomes, Impact, and Future Developments"
-permalink: /portfolio/outcomes-and-future/
+permalink: /hf-project/outcomes-and-future/
 author_profile: true
 ---
 
@@ -38,4 +38,4 @@ To further enhance the educational feedback loop, a custom AI pipeline is under 
 
 ---
 
-**[← Workshop Design](/portfolio/workshop-design/)** · **[← Back to Human Factors Project](/portfolio/)**
+**[← Workshop Design](/hf-project/workshop-design/)** · **[← Back to Human Factors Project](/hf-project/)**

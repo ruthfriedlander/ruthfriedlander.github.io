@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Workshop Design: Bridging Theory and Practice"
-permalink: /portfolio/workshop-design/
+permalink: /hf-project/workshop-design/
 author_profile: true
 ---
 
@@ -27,4 +27,4 @@ Student feedback highlighted the success of this instructional sequence. One stu
 
 ---
 
-**[← Back to Human Factors Project](/portfolio/)** · **[Outcomes, Feedback & Future →](/portfolio/outcomes-and-future/)**
+**[← Back to Human Factors Project](/hf-project/)** · **[Outcomes, Feedback & Future →](/hf-project/outcomes-and-future/)**

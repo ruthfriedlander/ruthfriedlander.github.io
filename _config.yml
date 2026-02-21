@@ -223,7 +223,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  hf_project:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _hf_project
   - scope:
       path: ""
-      type: portfolio
+      type: hf_project
     values:
       layout: single
       author_profile: true

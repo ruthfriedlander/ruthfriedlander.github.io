@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Human Factors Project"
-permalink: /portfolio/
+permalink: /hf-project/
 author_profile: true
 ---
 
@@ -30,5 +30,5 @@ Despite being a requirement in the General Medical Council's Outcomes for Gradua
 
 ## Explore the Project
 
-* **[Read about the Workshop Design and Pedagogy](/portfolio/workshop-design/)**
-* **[Review the Outcomes, Feedback, and Future Scaling](/portfolio/outcomes-and-future/)**
+* **[Read about the Workshop Design and Pedagogy](/hf-project/workshop-design/)**
+* **[Review the Outcomes, Feedback, and Future Scaling](/hf-project/outcomes-and-future/)**
