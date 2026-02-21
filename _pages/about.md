@@ -7,16 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Clinical Education Fellow in Emergency Medicine at University Hospitals Bristol and Weston (UHBW), working closely with Bristol University medical students in their clinical years to develop their skills in acute and emergency medicine.
+I am a Clinical Education Fellow in Emergency Medicine at University Hospitals Bristol and Weston (UHBW), combining frontline Emergency Department practice with innovative educational design for undergraduate medical students.
 
-I have a keen interest in MedEd and Simulation, and am currently leading a programme with Final Year students exploring the use of "Gamification" to teach Human Factors principles.
+## About Me
 
-In addition to this role, I am an active volunteer with St John Ambulance as a Demonstrator/Educator and Event Doctor.
+With a primary clinical focus on **Emergency Medicine** and a specialised expertise in **Undergraduate Medical Education**, I work closely with University of Bristol medical students in their clinical years to develop their skills in acute and emergency care. I hold a **MBChB with Distinction** from the University of Bristol and am registered with the **General Medical Council** (Full Registration with Licence to Practise).
 
-## Interests
+## Medical Education & Simulation
 
-- **Medical Education** — curriculum design, clinical teaching, and assessment
-- **Simulation** — high-fidelity and in-situ simulation for clinical training
-- **Human Factors** — gamification approaches to teaching non-technical skills
-- **Emergency Medicine** — acute care and emergency department education
-- **St John Ambulance** — volunteering as Demonstrator/Educator and Event Doctor
+A significant part of my career is dedicated to pushing the boundaries of how we teach clinical skills:
+
+- **Human Factors & Gamification** — I created an award-winning "gamified" Human Factors workshop using co-operative game-based learning, presented nationally at DEMEC 2025 and a finalist for the ASME Teaching Innovation and Excellence (TIE) Prize 2025.
+- **Simulation Leadership** — I act as Faculty for Trust simulation courses and have designed high-fidelity "Mass Casualty" and "Plane Sim" exercises.
+- **Undergraduate Teaching** — I manage weekly bedside teaching for Year 3 students and deliver core lectures on Acute Medicine and Trauma.
+- **Curriculum Design** — I created a regional Human Factors Teaching Day for Foundation Doctors.
+
+## Quality Improvement & Leadership
+
+- **Resident Doctor Audit Lead** for the Bristol Royal Infirmary Emergency Department, overseeing audit alignment with national standards and CQC priorities.
+- **Time Critical Medication QIP** — Collaborated with Pharmacy Informatics to build a bespoke data collection tool for robust departmental performance reporting.
+
+## Volunteering
+
+I am an active volunteer with **St John Ambulance** as a Demonstrator/Educator and Event Doctor, delivering over 50 hours of community training in 2025.

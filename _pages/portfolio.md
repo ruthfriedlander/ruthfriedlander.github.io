@@ -10,6 +10,12 @@ author_profile: true
 **Project Creator:** Dr. Ruth Friedlander, Clinical Education Fellow in Emergency Medicine
 **Presented At:** 6th Developing Excellence in Medical Education Conference (DEMEC), December 2025
 
+## Awards & Recognition
+
+* **Finalist: Teaching Innovation and Excellence (TIE) Prize** — Association for the Study of Medical Education (ASME), 2025
+* **National Oral Abstract** — "Defusing Tension: Human Factors Education Using Non-Clinical Game-Based Learning" — DEMEC, 2025
+* **Regional Presentation** — Human Factors in Clinical Practice — South-West Foundation School, 2026
+
 ## Project Overview
 
 "Defusing Tension" is an innovative educational workshop designed to teach Human Factors to medical students using non-clinical, co-operative game-based learning. NHS England defines Human Factors as the study of how teamwork, tasks, equipment, workspace, culture, and organisation affect human behaviour and abilities. Understanding this is fundamental to patient safety, as 80% of healthcare errors are attributed to human factors at the individual or organisational level. Furthermore, the Care Quality Commission (CQC) reported that 96% of "Never Events" in 2017/18 should have been preventable with regular human actions.

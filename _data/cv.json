@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Ruth Friedlander",
+    "label": "Clinical Education Fellow in Emergency Medicine",
     "email": "",
     "phone": "",
     "website": "https://ruthfriedlander.github.io",
-    "summary": "Clinical Education Fellow in Emergency Medicine at UHBW, working closely with Bristol University medical students to develop their skills in acute and emergency medicine. Keen interest in MedEd, Simulation, and Human Factors.",
+    "summary": "Clinical Education Fellow in Emergency Medicine at UHBW, combining frontline ED practice with innovative educational design. MBChB with Distinction from the University of Bristol. Special interest in MedEd, Simulation, Human Factors, and gamified learning.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,7 +33,7 @@
       "website": "",
       "startDate": "2024-08-01",
       "endDate": "",
-      "summary": "Working closely with Bristol University medical students in their clinical years to develop their skills in acute and emergency medicine. Leading a programme with Final Year students exploring the use of Gamification to teach Human Factors principles."
+      "summary": "Frontline Emergency Department practice at Bristol Royal Infirmary combined with innovative educational design for undergraduate medical students. Leads gamified Human Factors teaching, manages bedside teaching, and acts as Faculty for simulation courses. Resident Doctor Audit Lead for the ED."
     },
     {
       "company": "University Hospitals Bristol and Weston NHS Foundation Trust",
@@ -40,7 +41,7 @@
       "website": "",
       "startDate": "2023-08-01",
       "endDate": "2024-08-01",
-      "summary": ""
+      "summary": "Rotations in General Practice, Geriatrics, and Paediatric Surgery."
     },
     {
       "company": "Severn Foundation School",
@@ -56,21 +57,60 @@
       "website": "",
       "startDate": "2022-07-01",
       "endDate": "2023-08-01",
-      "summary": ""
+      "summary": "Rotations in Acute Medicine, Gastroenterology, and General Surgery. Completed Team Leader/Supervisor Level 3 Apprenticeship with Distinction."
     }
   ],
   "education": [
     {
       "institution": "University of Bristol",
       "area": "MBChB, Medicine",
-      "studyType": "",
+      "studyType": "Distinction",
       "startDate": "2017-09-01",
       "endDate": "2022-06-01",
       "gpa": null,
       "courses": []
+    },
+    {
+      "institution": "Yeovil District Hospital",
+      "area": "Team Leader/Supervisor Level 3 Apprenticeship",
+      "studyType": "Distinction",
+      "startDate": "",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Emergency Medicine",
+      "keywords": [
+        "Ultrasound-Guided FIB",
+        "Ultrasound-Guided Cannulation",
+        "Wound Suturing",
+        "Local Anaesthesia",
+        "DC Cardioversion (assisted)",
+        "Fracture/Dislocation Reduction (assisted)"
+      ]
+    },
+    {
+      "name": "Medical Education",
+      "keywords": [
+        "Curriculum Design",
+        "Simulation",
+        "Gamification",
+        "Human Factors",
+        "Bedside Teaching"
+      ]
+    },
+    {
+      "name": "Quality Improvement",
+      "keywords": [
+        "Clinical Audit",
+        "Data Collection Tools",
+        "CQC Standards"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [
     {
@@ -87,6 +127,41 @@
     }
   ],
   "references": [],
+  "awards": [
+    {
+      "title": "Finalist: Teaching Innovation and Excellence (TIE) Prize",
+      "awarder": "ASME",
+      "date": "2025"
+    },
+    {
+      "title": "National Oral Abstract: Defusing Tension – Human Factors Education",
+      "awarder": "DEMEC",
+      "date": "2025"
+    },
+    {
+      "title": "Regional Presentation: Human Factors in Clinical Practice",
+      "awarder": "South-West Foundation School",
+      "date": "2026"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "iTrust Debriefing Course",
+      "date": "2025"
+    },
+    {
+      "name": "Simulation Instructors Course",
+      "date": "2025"
+    },
+    {
+      "name": "Paediatric Life Support (PLS)",
+      "date": "2023"
+    },
+    {
+      "name": "Advanced Life Support (ALS)",
+      "date": "2022"
+    }
+  ],
   "publications": [],
   "presentations": [],
   "teaching": [],
