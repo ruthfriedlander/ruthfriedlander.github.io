@@ -23,30 +23,7 @@ NHS England defines Human Factors as the study of how teamwork, tasks, equipment
 
 Despite an understanding of Human Factors principles and practice being a requirement in the General Medical Council's "Outcomes for Graduates", effective training is frequently lacking. The CQC explicitly noted that while trusts recognize the importance of patient safety, human factors education is not prioritized by leaders in the same way as operational targets, a stark contrast to other safety-critical industries. A local needs assessment corroborated this gap, revealing that 83% of participating medical students had not received prior teaching on the subject. This project bridges that critical educational gap.
 
-## Gallery
-
-<link rel="stylesheet" href="/assets/css/hf-carousel.css" />
-
-<div class="hf-carousel" id="hfCarousel">
-  <div class="hf-carousel__track" id="hfTrack">
-    <div class="hf-carousel__slide"><img src="/images/hf_project1.png" alt="Human Factors Workshop - Image 1" /></div>
-    <div class="hf-carousel__slide"><img src="/images/hf_project2.png" alt="Human Factors Workshop - Image 2" /></div>
-    <div class="hf-carousel__slide"><img src="/images/hf_project3.png" alt="Human Factors Workshop - Image 3" /></div>
-  </div>
-  <button class="hf-carousel__btn hf-carousel__btn--prev" onclick="hfSlide(-1)" aria-label="Previous image">&#10094;</button>
-  <button class="hf-carousel__btn hf-carousel__btn--next" onclick="hfSlide(1)" aria-label="Next image">&#10095;</button>
-  <div class="hf-carousel__dots" id="hfDots"></div>
-</div>
-
-<!-- Lightbox -->
-<div class="hf-lightbox" id="hfLightbox" onclick="hfCloseLightbox()">
-  <button class="hf-lightbox__close" aria-label="Close">&times;</button>
-  <img id="hfLightboxImg" src="" alt="Full-size image" />
-</div>
-
-<script src="/assets/js/hf-carousel.js"></script>
-
-## Video
+## Explainer Video
 
 <div class="hf-video-wrapper">
   <iframe src="https://player.vimeo.com/video/1096066130?h=20e2b6fef8" allowfullscreen></iframe>
@@ -73,3 +50,26 @@ Despite an understanding of Human Factors principles and practice being a requir
 
 * **[Read about the Workshop Design and Pedagogy](/hf-project/workshop-design/)**
 * **[Review the Outcomes, Feedback, and Future Scaling](/hf-project/outcomes-and-future/)**
+
+## Gallery from Workshops
+
+<link rel="stylesheet" href="/assets/css/hf-carousel.css" />
+
+<div class="hf-carousel" id="hfCarousel">
+  <div class="hf-carousel__track" id="hfTrack">
+    <div class="hf-carousel__slide"><img src="/images/hf_project1.png" alt="Human Factors Workshop - Image 1" /></div>
+    <div class="hf-carousel__slide"><img src="/images/hf_project2.png" alt="Human Factors Workshop - Image 2" /></div>
+    <div class="hf-carousel__slide"><img src="/images/hf_project3.png" alt="Human Factors Workshop - Image 3" /></div>
+  </div>
+  <button class="hf-carousel__btn hf-carousel__btn--prev" onclick="hfSlide(-1)" aria-label="Previous image">&#10094;</button>
+  <button class="hf-carousel__btn hf-carousel__btn--next" onclick="hfSlide(1)" aria-label="Next image">&#10095;</button>
+  <div class="hf-carousel__dots" id="hfDots"></div>
+</div>
+
+<!-- Lightbox -->
+<div class="hf-lightbox" id="hfLightbox" onclick="hfCloseLightbox()">
+  <button class="hf-lightbox__close" aria-label="Close">&times;</button>
+  <img id="hfLightboxImg" src="" alt="Full-size image" />
+</div>
+
+<script src="/assets/js/hf-carousel.js"></script>
