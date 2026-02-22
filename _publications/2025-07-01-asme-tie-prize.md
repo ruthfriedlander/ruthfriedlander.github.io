@@ -3,7 +3,7 @@ title: "Defusing Tension - Human Factors Education Using Non-Clinical Game-Based
 collection: publications
 category: talks
 permalink: /publication/2025-asme-tie-prize
-excerpt: 'Finalist for the ASME Teaching Innovation and Excellence (TIE) Prize 2025'
+excerpt: 'Finalist for the ASME Teaching Innovation and Excellence (TIE) Prize 2025.'
 date: 2025-07-01
 venue: 'ASME 2025'
 ---

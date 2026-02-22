@@ -9,4 +9,4 @@ venue: 'South-West Foundation School'
 ---
 
 Regional presentation on the application of Human Factors principles to clinical practice. Drew on experience from the “Defusing Tension” gamified workshop programme and its integration into the undergraduate curriculum at the South Bristol Academy, and outlined plans for the workshop's incorporation into a Regional Teaching Day for Severn Foundation School Trainees.
-Data from the workshop was presented, demonstrating significant improvements in students' self-rated knowledge and exceptionally high engagement and satisfaction scores. This was sustained in follow up data collected in the second year of the programme. 
+Pilot data from the workshop were presented, demonstrating significant improvements in students’ self-rated knowledge, alongside exceptionally high engagement and satisfaction scores. Preliminary follow-up data from the second year of the programme suggest that these positive outcomes have been sustained. 
