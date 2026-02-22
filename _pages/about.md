@@ -17,8 +17,8 @@ With a primary clinical focus on **Emergency Medicine** and a specialised expert
 
 A significant part of my career is dedicated to pushing the boundaries of how we teach clinical skills:
 
-- **Human Factors & Gamification** - I have created an award-winning "gamified" Human Factors workshop using co-operative game-based learning, presented nationally at DEMEC 2025 and a finalist for the ASME Teaching Innovation and Excellence (TIE) Prize 2025.
-- **Simulation Leadership** - I act as Faculty for Trust simulation courses and also have designed high-fidelity "Mass Casualty" and "Plane Sim" exercises.
+- **Human Factors & Gamification** - I have created an award-winning "gamified" non-clinical Human Factors workshop using co-operative game-based learning, presented nationally at DEMEC 2025 and a finalist for the ASME Teaching Innovation and Excellence (TIE) Prize 2025.
+- **Simulation Leadership** - I act as Faculty for Trust simulation courses and have also designed high-fidelity "Mass Casualty" and "Plane Sim" exercises.
 - **Undergraduate Teaching** - I manage weekly bedside teaching for Year 3 students and deliver core lectures on Acute Medicine and Trauma.
 - **Curriculum Design** - I am in the process of creating a Human Factors Regional Teaching Day for Foundation Doctors, funded by the Severn Foundation School.
 

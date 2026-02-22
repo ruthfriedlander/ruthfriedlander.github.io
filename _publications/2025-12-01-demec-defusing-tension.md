@@ -8,4 +8,4 @@ date: 2025-12-01
 venue: 'DEMEC 2025'
 ---
 
-National oral abstract presenting the design, delivery, and outcomes of an innovative "gamified" Human Factors workshop for final year medical students. The workshop uses the co-operative puzzle game "Keep Talking and Nobody Explodes" to teach non-technical skills including communication, teamwork, and situational awareness in a non-clinical context.
+National oral abstract presenting the design, delivery, and outcomes of an innovative “gamified” Human Factors workshop for final year medical students.

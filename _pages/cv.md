@@ -40,7 +40,7 @@ redirect_from:
 
 ## Medical Education & Teaching
 
-* **Curriculum Design**: Created a regional Human Factors Teaching Day for Foundation Doctors and an award-winning "gamified" Human Factors workshop for Year 5 students
+* **Curriculum Design**: Created an award-winning "gamified" non-clinical Human Factors workshop, and are now developing a Human Factors Regional Teaching Day for Foundation Doctors, funded by the Severn Foundation School.
 * **Simulation Leadership**: Faculty for Trust simulation courses; designed high-fidelity "Mass Casualty" and "Plane Sim" exercises
 * **Undergraduate Teaching**: Manages weekly bedside teaching for Year 3 medical students; delivers core lectures on Acute Medicine and Trauma
 * **Community Education**: St John Ambulance Demonstrator and Educator, delivering over 50 hours of training in 2025
