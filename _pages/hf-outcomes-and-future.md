@@ -17,7 +17,7 @@ The workshop yielded significant improvements across key metrics.
 
 ## Long-Term Clinical Integration
 
-To evaluate true pedagogical success, a follow-up survey was deployed two months post-workshop to students who had transitioned to primary care rotations. Among the 20 respondents, 50% reported that experiences on clinical placement caused them to explicitly recall the workshop.
+To evaluate true pedagogical success, a follow-up survey was deployed two months post-workshop to students. Among the 20 respondents, 50% reported that experiences on clinical placement caused them to explicitly recall the workshop.
 
 The qualitative data provided strong evidence of behavioral change and improved situational awareness:
 
@@ -34,7 +34,7 @@ The project is embedded into the 9-week "Acute and Critical Care" block for fina
 The intervention is designed for high scalability with low set-up costs. A "Train the Trainer" programme and a comprehensive delivery guide have been produced to ensure consistent facilitation across different cohorts. Future expansion targets include post-graduate doctors, nursing staff, allied health professionals, and lay people.
 
 **Artificial Intelligence Integration:**
-To further enhance the educational feedback loop, a custom AI Agent is being considered for development. This will utilize Large Language Models (LLMs) to provide transcription and extract specific conversational examples from the gameplay. This system is intended to generate automated feedback summaries for students via email, evaluate facilitator performance, and provide real-time feedback to facilitators during the session.
+To further enhance the educational feedback loop, a custom AI Agent is being considered for development. This would utilize Large Language Models (LLMs) to provide transcription and extract specific conversational examples from the gameplay. This system would be intended to generate automated feedback summaries for students via email, evaluate facilitator performance, and provide real-time feedback to facilitators during the session.
 
 ---
 

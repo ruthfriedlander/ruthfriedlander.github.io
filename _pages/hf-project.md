@@ -5,7 +5,7 @@ permalink: /hf-project/
 author_profile: true
 ---
 
-# Defusing Tension in Healthcare Education
+# Defusing Tension in Human Factors Education 
 
 **Project Creator:** Dr. Ruth Friedlander, Clinical Education Fellow in Emergency Medicine
 
@@ -21,7 +21,7 @@ author_profile: true
 
 NHS England defines Human Factors as the study of how teamwork, tasks, equipment, workspace, culture, and organisation affect human behaviour and abilities. Understanding this is fundamental to patient safety, as 80% of healthcare errors are attributed to human factors at the individual or organisational level. Furthermore, the Care Quality Commission (CQC) reported that 96% of "Never Events" in 2017/18 should have been preventable with regular human actions.
 
-Despite being a requirement in the General Medical Council's Outcomes for Graduates, effective training is frequently lacking. The CQC explicitly noted that while trusts recognize the importance of patient safety, human factors education is not prioritized by leaders in the same way as operational targets, a stark contrast to other safety-critical industries. A local needs assessment corroborated this gap, revealing that 83% of participating medical students had not received prior teaching on the subject. This project bridges that critical educational gap.
+Despite an understanding of Human Factors principles and practice being a requirement in the General Medical Council's "Outcomes for Graduates", effective training is frequently lacking. The CQC explicitly noted that while trusts recognize the importance of patient safety, human factors education is not prioritized by leaders in the same way as operational targets, a stark contrast to other safety-critical industries. A local needs assessment corroborated this gap, revealing that 83% of participating medical students had not received prior teaching on the subject. This project bridges that critical educational gap.
 
 ## Resources Available for Download
 * **[DEMEC Conference Presentation (PDF)](/files/demec-conference-presentation.pdf)**
