@@ -48,7 +48,7 @@ redirect_from:
 ## Leadership & Quality Improvement
 
 * **Resident Doctor Audit Lead** - Oversees the audit programme for the BRI Emergency Department, aligning projects with national standards and CQC priorities
-* **Time Critical Medication (TCM) QIP** - Collaborated with Pharmacy Informatics to build a bespoke data collection tool for robust departmental performance reporting
+* **Time Critical Medication (TCM) QIP** - Collaborated locally with the UHBW Pharmacy Informatics team to build a bespoke data collection tool for robust departmental performance reporting
 
 ## Awards & Presentations
 
