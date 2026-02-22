@@ -11,25 +11,25 @@ redirect_from:
 
 ## Education
 
-* **MBChB, Medicine** — University of Bristol (2017–2022) · *Distinction*
-* **Team Leader/Supervisor Level 3 Apprenticeship** — Yeovil District Hospital (2023) · *Distinction*
+* **MBChB, Medicine** - University of Bristol (2017-2022) · *Distinction*
+* **Team Leader/Supervisor Level 3 Apprenticeship** - Yeovil District Hospital (2023) · *Distinction*
 * **GMC**: Full Registration with Licence to Practise (No. 7951746)
 
 ## Clinical Experience
 
 * **Clinical Education Fellow in Emergency Medicine**
   * Bristol Royal Infirmary, UHBW NHS Foundation Trust
-  * August 2024 – Present
+  * August 2024 - Present
 
 * **Foundation Year 2 Doctor**
   * General Practice, Geriatrics, Paediatric Surgery
   * UHBW NHS Foundation Trust
-  * August 2023 – August 2024
+  * August 2023 - August 2024
 
 * **Foundation Year 1 Doctor**
   * Acute Medicine, Gastroenterology, General Surgery
   * Yeovil Hospital NHS Foundation Trust
-  * July 2022 – August 2023
+  * July 2022 - August 2023
 
 ## Clinical Skills & Proficiencies
 
@@ -47,18 +47,18 @@ redirect_from:
 
 ## Leadership & Quality Improvement
 
-* **Resident Doctor Audit Lead** — Oversees the audit programme for the BRI Emergency Department, aligning projects with national standards and CQC priorities
-* **Time Critical Medication (TCM) QIP** — Collaborated with Pharmacy Informatics to build a bespoke data collection tool for robust departmental performance reporting
+* **Resident Doctor Audit Lead** - Oversees the audit programme for the BRI Emergency Department, aligning projects with national standards and CQC priorities
+* **Time Critical Medication (TCM) QIP** - Collaborated with Pharmacy Informatics to build a bespoke data collection tool for robust departmental performance reporting
 
 ## Awards & Presentations
 
-* **Finalist: Teaching Innovation and Excellence (TIE) Prize** — ASME (2025)
-* **National Oral Abstract**: "Defusing Tension" – Human Factors Education Using Non-Clinical Game-Based Learning — DEMEC (2025)
-* **Regional Presentation**: Human Factors in Clinical Practice — South-West Foundation School (2026)
+* **Finalist: Teaching Innovation and Excellence (TIE) Prize** - ASME (2025)
+* **National Oral Abstract**: "Defusing Tension" - Human Factors Education Using Non-Clinical Game-Based Learning - DEMEC (2025)
+* **Regional Presentation**: Human Factors in Clinical Practice - South-West Foundation School (2026)
 
 ## Professional Certifications
 
 * iTrust Debriefing Course (2025)
 * Simulation Instructors Course (2025)
-* Paediatric Life Support — PLS (2023)
-* Advanced Life Support — ALS (2022)
+* Paediatric Life Support - PLS (2023)
+* Advanced Life Support - ALS (2022)

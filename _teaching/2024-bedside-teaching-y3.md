@@ -1,5 +1,5 @@
 ---
-title: "Bedside Teaching — Year 3 Medical Students"
+title: "Bedside Teaching - Year 3 Medical Students"
 collection: teaching
 type: "Undergraduate teaching"
 permalink: /teaching/bedside-teaching-y3

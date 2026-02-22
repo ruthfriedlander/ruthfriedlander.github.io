@@ -1,5 +1,5 @@
 ---
-title: "Core Lectures — Acute Medicine and Trauma"
+title: "Core Lectures - Acute Medicine and Trauma"
 collection: teaching
 type: "Undergraduate lectures"
 permalink: /teaching/acute-medicine-trauma-lectures

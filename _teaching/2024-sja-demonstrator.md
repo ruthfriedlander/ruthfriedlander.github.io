@@ -1,5 +1,5 @@
 ---
-title: "St John Ambulance — Demonstrator/Educator"
+title: "St John Ambulance - Demonstrator/Educator"
 collection: teaching
 type: "Community education"
 permalink: /teaching/sja-demonstrator

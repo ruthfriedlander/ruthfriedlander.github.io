@@ -1,5 +1,5 @@
 ---
-title: "Simulation Faculty — Mass Casualty and Plane Sim Exercises"
+title: "Simulation Faculty - Mass Casualty and Plane Sim Exercises"
 collection: teaching
 type: "Simulation"
 permalink: /teaching/simulation-faculty

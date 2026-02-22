@@ -1,4 +1,4 @@
-# CLAUDE.md — Academic Pages Jekyll Template
+# CLAUDE.md - Academic Pages Jekyll Template
 
 ## Overview
 
@@ -28,13 +28,13 @@ This is an **Academic Pages** personal portfolio website built with **Jekyll** a
 
 ### Key Dependencies (Gemfile)
 
-- `jekyll` — core static site generator
-- `jekyll-feed` — Atom/RSS feed generation
-- `jekyll-sitemap` — automatic sitemap.xml
-- `jekyll-redirect-from` — redirect pages
-- `jemoji` — GitHub-style emoji support
-- `github-pages` — GitHub Pages compatibility gem
-- `webrick` — local dev server
+- `jekyll` - core static site generator
+- `jekyll-feed` - Atom/RSS feed generation
+- `jekyll-sitemap` - automatic sitemap.xml
+- `jekyll-redirect-from` - redirect pages
+- `jemoji` - GitHub-style emoji support
+- `github-pages` - GitHub Pages compatibility gem
+- `webrick` - local dev server
 
 ---
 
@@ -272,9 +272,9 @@ collection: portfolio
 
 Two CV options exist (only one should be active in navigation):
 
-1. **Markdown CV** (`_pages/cv.md`) — Manually written with Liquid includes that loop through `site.publications`, `site.talks`, `site.teaching` to auto-list those items.
+1. **Markdown CV** (`_pages/cv.md`) - Manually written with Liquid includes that loop through `site.publications`, `site.talks`, `site.teaching` to auto-list those items.
 
-2. **JSON Resume CV** (`_pages/cv-json.md`) — Uses `cv-layout` layout to render `_data/cv.json` (follows [JSON Resume](https://jsonresume.org/) schema) with the `_includes/cv-template.html` partial.
+2. **JSON Resume CV** (`_pages/cv-json.md`) - Uses `cv-layout` layout to render `_data/cv.json` (follows [JSON Resume](https://jsonresume.org/) schema) with the `_includes/cv-template.html` partial.
 
 ---
 
@@ -338,8 +338,8 @@ sass:
 
 ### GitHub Actions
 
-- **`.github/workflows/jekyll-gh-pages.yml`** — Builds and deploys the site to GitHub Pages on push.
-- **`.github/workflows/scrape_talks.yml`** — Scrapes talk data (utility workflow).
+- **`.github/workflows/jekyll-gh-pages.yml`** - Builds and deploys the site to GitHub Pages on push.
+- **`.github/workflows/scrape_talks.yml`** - Scrapes talk data (utility workflow).
 
 ### Docker (Local Dev)
 
@@ -359,12 +359,12 @@ jekyll serve -l -H localhost    # or: bundle exec jekyll serve -l -H localhost
 
 ## Important Conventions
 
-1. **Filename dates matter** — Collection items use `YYYY-MM-DD-` prefix for sorting.
-2. **Permalinks are explicit** — Each content file defines its own `permalink` in front matter.
-3. **`collection:` front matter** — Collection items should declare their collection name.
-4. **Leave fields blank to hide** — Empty author profile fields hide their sidebar icons.
-5. **HTML in excerpts** — Portfolio excerpts support inline HTML (`<br/>`, `<img>`).
-6. **MathJax delimiters** — Use `$$...$$` (not `$...$`) for inline/display math.
-7. **`future: true`** — Posts with future dates are still published (set in `_config.yml`).
-8. **HTML compression** — The `compress` layout minifies HTML output in production.
-9. **Comments** — Supports Disqus, Discourse, Facebook, Staticman, or custom providers (configured in `_config.yml`).
+1. **Filename dates matter** - Collection items use `YYYY-MM-DD-` prefix for sorting.
+2. **Permalinks are explicit** - Each content file defines its own `permalink` in front matter.
+3. **`collection:` front matter** - Collection items should declare their collection name.
+4. **Leave fields blank to hide** - Empty author profile fields hide their sidebar icons.
+5. **HTML in excerpts** - Portfolio excerpts support inline HTML (`<br/>`, `<img>`).
+6. **MathJax delimiters** - Use `$$...$$` (not `$...$`) for inline/display math.
+7. **`future: true`** - Posts with future dates are still published (set in `_config.yml`).
+8. **HTML compression** - The `compress` layout minifies HTML output in production.
+9. **Comments** - Supports Disqus, Discourse, Facebook, Staticman, or custom providers (configured in `_config.yml`).
