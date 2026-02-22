@@ -34,7 +34,7 @@ The project is embedded into the 9-week "Acute and Critical Care" block for fina
 The intervention is designed for high scalability with low set-up costs. A "Train the Trainer" programme and a comprehensive delivery guide have been produced to ensure consistent facilitation across different cohorts. Future expansion targets include post-graduate doctors, nursing staff, allied health professionals, and lay people.
 
 **Artificial Intelligence Integration:**
-To further enhance the educational feedback loop, a custom AI pipeline is under development. This will utilize Large Language Models (LLMs) to provide transcription and extract specific conversational examples from the gameplay. This system is intended to generate automated feedback summaries for students via email, evaluate facilitator performance, and provide real-time feedback to facilitators during the session.
+To further enhance the educational feedback loop, a custom AI Agent is being considered for development. This will utilize Large Language Models (LLMs) to provide transcription and extract specific conversational examples from the gameplay. This system is intended to generate automated feedback summaries for students via email, evaluate facilitator performance, and provide real-time feedback to facilitators during the session.
 
 ---
 
