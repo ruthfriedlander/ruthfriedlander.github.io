@@ -24,13 +24,12 @@ NHS England defines Human Factors as the study of how teamwork, tasks, equipment
 Despite being a requirement in the General Medical Council's Outcomes for Graduates, effective training is frequently lacking. The CQC explicitly noted that while trusts recognize the importance of patient safety, human factors education is not prioritized by leaders in the same way as operational targets, a stark contrast to other safety-critical industries. A local needs assessment corroborated this gap, revealing that 83% of participating medical students had not received prior teaching on the subject. This project bridges that critical educational gap.
 
 ## Resources Available for Download
-
-* **[Human Factors Presentation 2025-26 (PDF)](/files/human-factors-presentation-2025-26.pdf)**
 * **[DEMEC Conference Presentation (PDF)](/files/demec-conference-presentation.pdf)**
-* **[Session Plan (PDF)](/files/session-plan.pdf)**
+* **[Workshop Delivery Guide (PDF)](/files/session-plan.pdf)**
+* **[Workshop Teaching Slides (PDF)](/files/human-factors-presentation-2025-26.pdf)**
 
 <div class="notice--info">
-  <h4>Licensing Statement</h4>
+  <h2>Licensing Statement</h2>
   <p>All materials and resources provided on this project page are open-source and released under the MIT License. You are free to use, modify, and distribute these materials for both personal and commercial purposes, provided that you include the original copyright notice.</p>
   <details>
     <summary><strong>MIT License Terms</strong></summary>
