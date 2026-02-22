@@ -30,9 +30,9 @@ Despite an understanding of Human Factors principles and practice being a requir
 </div>
 
 ## Resources Available for Download
-* **[DEMEC Conference Presentation (PDF)](/files/demec-conference-presentation.pdf)**
-* **[Workshop Delivery Guide (PDF)](/files/session-plan.pdf)**
-* **[Workshop Teaching Slides (PDF)](/files/human-factors-presentation-2025-26.pdf)**
+* **<a href="/files/demec-conference-presentation.pdf" download target="_blank">DEMEC Conference Presentation (PDF)</a>**
+* **<a href="/files/session-plan.pdf" download target="_blank">Workshop Delivery Guide (PDF)</a>**
+* **<a href="/files/human-factors-presentation-2025-26.pdf" download target="_blank">Workshop Teaching Slides (PDF)</a>**
 
 <div class="notice--info">
   <h2>Licensing Statement</h2>
